@@ -1,0 +1,36 @@
+
+
+            Largest Countries:
+
+CITY NAME              	COUNTRY NAME                      	   POPULATION	  SURFACE AREA        DENSITY
+
+-----------------------	----------------------------------	--------------    ------------     ---------
+
+Moscow                  Russian Federation            		   146,934,000    17,075,400.0          8.60
+Ottawa                  Canada                        		    31,147,000     9,970,610.0          3.12
+Peking                  China                         		 1,277,558,000     9,572,900.0        133.45
+Washington              United States                 		   278,357,000     9,363,520.0         29.72
+Brasilia                Brazil                        		   170,115,000     8,547,403.0         19.90
+Canberra                Australia                     		    18,886,000     7,741,220.0          2.43
+New Delhi               India                         		 1,013,662,000     3,287,263.0        308.36
+Buenos Aires            Argentina                     		    37,032,000     2,780,400.0         13.31
+Astana                  Kazakstan                     		    16,223,000     2,724,900.0          5.95
+Khartum                 Sudan                         		    29,490,000     2,505,813.0         11.76
+
+
+           Smallest Countries:
+
+CITY NAME              	COUNTRY NAME                      	   POPULATION	  SURFACE AREA        DENSITY
+
+-----------------------	----------------------------------	--------------    ------------     ---------
+
+Adamstown               Pitcairn                      		            50            49.0          1.02
+Kingston                Norfolk Island                		         2,000            36.0         55.55
+Funafuti                Tuvalu                        		        12,000            26.0        461.53
+Yaren                   Nauru                         		        12,000            21.0        571.42
+Macao                   Macao                         		       473,000            18.0     26,277.77
+West Island             Cocos (Keeling) Islands       		           600            14.0         42.85
+Fakaofo                 Tokelau                       		         2,000            12.0        166.66
+Gibraltar               Gibraltar                     		        25,000             6.0      4,166.66
+Monaco-Ville            Monaco                        		        34,000             1.5     22,666.66
+Citti del Vaticano      Holy See (Vatican City State) 		         1,000             0.4      2,500.00
